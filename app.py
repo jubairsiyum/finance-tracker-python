@@ -122,7 +122,7 @@ def display_footer():
         """
         <hr>
         <div style="text-align: center;">
-            <p><strong>Submitted to:</strong> Nasima Islam Bithi</p>
+            <p><strong>Submitted to:</strong>Ms. Nasima Islam Bithi</p>
             <p><strong>Submitted by:</strong> Jubair Amin Siyum, SHAKIB, Mahir Labib</p>
         </div>
         """,
