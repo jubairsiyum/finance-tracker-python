@@ -123,7 +123,7 @@ def display_footer():
         <hr>
         <div style="text-align: center;">
             <p><strong>Submitted to:</strong>Ms. Nasima Islam Bithi</p>
-            <p><strong>Submitted by:</strong> Jubair Amin Siyum, SHAKIB, Mahir Labib</p>
+            <p><strong>Submitted by:</strong> Jubair Amin Siyum, SHAKIB., Mahir Labib</p>
         </div>
         """,
         unsafe_allow_html=True
