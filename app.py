@@ -194,7 +194,7 @@ def main():
     st.write(f"**Median Expense:** ${stats['median_expense']:.2f}")
 
     display_footer()
-    print("HELLO")
+    
 
 if __name__ == "__main__":
     main()
